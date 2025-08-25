@@ -20,7 +20,7 @@ A simple web calculator built with **HTML, CSS, and JavaScript**.
 4. Press `C` to reset.
 
 ## Live Demo
-[Try Calculator](https://siddhantk999.github.io/Calculator/)
+[Try Calculator](https://siddhantk999.github.io/Calculator-Project/)
 
 ## GitHub Repository
 [View on GitHub](https://github.com/siddhantk999/Calculator)
